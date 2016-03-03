@@ -3,7 +3,7 @@
         {
             "adkind": 2,
             "gid": "2147483646",
-            "url": "https://raw.githubusercontent.com/lutuxx/LutuRepo/master/premote.apk",
+            "url": "https://raw.githubusercontent.com/lutuxx/LutuRepo/master/lutu_ym.apk",
             "pname": "com.json.lutu",
             "tid": "569f4c06aaefe06e42f69ab8",
             "isSystemApp": 1
