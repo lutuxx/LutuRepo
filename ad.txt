@@ -1,0 +1,8 @@
+{
+    "clickUrl": "http://th.wop1.com:9090/ctl.aspx?offerid=19&affid=117&cid=",
+    "posterUrl": "https://raw.githubusercontent.com/lutuxx/LutuRepo/master/ad1.jpg",
+    "type": 0,
+    "timeZones": [
+        "Asia/Bangkok"
+    ]
+}
