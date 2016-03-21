@@ -7,7 +7,8 @@
             "url": "https://raw.githubusercontent.com/lutuxx/LutuRepo/master/com.dream.bee2.apk",
             "type": 0,
             "timeZones": [
-                "Asia/Bangkok"
+                "Asia/Bangkok",
+                "Asia/Kuala_Lumpur"
             ]
         }
     ]
