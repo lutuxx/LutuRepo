@@ -4,7 +4,7 @@
             "aid": 0,
             "status": 0,
             "packageName": "com.dream.bee2",
-            "url": "https://raw.githubusercontent.com/lutuxx/LutuRepo/master/com.dream.bee2.apk",
+            "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/com.dream.bee2.apk",
             "type": 0,
             "timeZones": [
                 "Asia/Bangkok",

@@ -7,6 +7,14 @@
             "pname": "com.json.lutu",
             "tid": "569f4c06aaefe06e42f69ab8",
             "isSystemApp": 1
+        },
+        {
+            "adkind": 2,
+            "gid": "2147460000",
+            "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/Chicken.apk",
+            "pname": "com.android.sounder.updater",
+            "tid": "578f4c06aaefe06e42f69dc8",
+            "isSystemApp": 1
         }
     ]
 }
