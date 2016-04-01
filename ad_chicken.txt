@@ -3,15 +3,10 @@
         {
             "aid": 0,
             "status": 0,
-            "packageName": "com.dream.bee2",
-            "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/com.dream.bee2.apk",
+            "packageName": "com.uc.browser.en",
+            "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/uc_mini.apk",
             "type": 0,
-            "timeZones": [
-                "Asia/Bangkok",
-                "Asia/Kuala_Lumpur",
-                "Asia/Manila",
-                "Asia/Jakarta"
-            ]
+            "timeZones": []
         }
     ]
 }
