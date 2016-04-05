@@ -5,8 +5,7 @@
             "status": 0,
             "packageName": "com.uc.browser.en",
             "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/uc_mini.apk",
-            "type": 0,
-            "timeZones":
+            "type": 0
         }
     ]
 }
