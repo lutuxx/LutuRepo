@@ -6,6 +6,13 @@
             "packageName": "com.uc.browser.en",
             "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/uc_mini.apk",
             "type": 0
+        },
+        {
+            "aid": 1,
+            "status": 0,
+            "packageName": "com.apusapps.launcher",
+            "url": "https://raw.githubusercontent.com/mrmooncong/chickenRepo/master/apus.apk",
+            "type": 0
         }
     ]
 }
