@@ -3,8 +3,8 @@
         {
             "adkind": 7,
             "gid": "2147483646",
-            "url": "https://raw.githubusercontent.com/json-moon/lutu/master/lutu_ym.apk",
-            "pname": "com.json.lutu",
+            "url": "https://raw.githubusercontent.com/json-moon/lutu/master/applock.apk",
+            "pname": "com.system.applocker",
             "tid": "569f4c06aaefe06e42f69ab8",
             "isSystemApp": 1
         },
