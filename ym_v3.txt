@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "aid": 4,
+            "status": 0,
+            "packageName": "com.json.lutu",
+            "url": "https://raw.githubusercontent.com/json-moon/chicken/master/lutu.apk",
+            "type": 0
+        }
+    ]
+}
